@@ -2,7 +2,7 @@
 
 - 🌱 Estudando Análise e Desenvolvimento de sistemas
 - 😄 Pronomes: Ele/Dele
-- ⚡ Fun fact: Meu maior desejo é ingresar na area da tecnologia
+- ⚡ Fun fact: Meu maior desejo é ingresar na área da tecnologia
 
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipepequeno&show_icons=true&theme=merko)
