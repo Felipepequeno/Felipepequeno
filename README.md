@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Felipe Pequeno👋
 
 - 🌱 Estudando Análise e Desenvolvimento de sistemas
-- 😄 Pronomes: Ele/Dele
 - ⚡ Fun fact: Gatos
 
 
